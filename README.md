@@ -71,6 +71,6 @@ The script outputs epoch-wise:
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-Your Name - your.email@example.com
+Your Name - scartegy@gmail.com
 
 Project Link: [https://github.com/narensen/FARC](https://github.com/narensen/FARC)
