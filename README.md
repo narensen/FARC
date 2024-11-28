@@ -21,8 +21,8 @@ This project implements a machine learning model to classify fake reviews using 
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/fake-reviews-classifier.git
-cd fake-reviews-classifier
+git clone https://github.com/narensen/FARC.git
+cd FARC
 ```
 
 2. Install required dependencies:
@@ -73,4 +73,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 Your Name - your.email@example.com
 
-Project Link: [https://github.com/yourusername/fake-reviews-classifier](https://github.com/yourusername/fake-reviews-classifier)
+Project Link: [https://github.com/narensen/FARC](https://github.com/narensen/FARC)
